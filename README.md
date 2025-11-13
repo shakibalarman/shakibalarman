@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aononto Jahan Junnurain</h1>
+<h1 align="center">Hi 👋, I'm Shakib Al Arman</h1>
 <h3 align="center"> Software Engineer | Problem Solver | Python  Lover | Researcher </h3>
 
 <p align="center">
-  <a href="mailto:aonontojahan@gmail.com">
+  <a href="mailto:shakibalarman.cse@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aonontojahan">
