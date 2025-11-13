@@ -5,10 +5,10 @@
   <a href="mailto:shakibalarman.cse@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aonontojahan">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/md-shakib-al-arman-565a45391/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/aonontojahan">
+  <a href="https://www.facebook.com/aonontojahan+">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
 </p>
