@@ -5,7 +5,7 @@
   <a href="mailto:shakibalarman.cse@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.comhttps://www.linkedin.com/in/shakibalarman/ />
+  <a href="https://www.linkedin.com/in/shakibalarman">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/aonontojahan+">
