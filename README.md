@@ -86,12 +86,19 @@
 
 ---
 
-### 🎉 More About Myself
-> I am a Computer Science student with a strong interest in Machine Learning and Software Development. I am passionate about building intelligent systems and crafting innovative software solutions that bridge the gap between ideas and technology.
+### 🧑‍💻 About Me
 
-I enjoy exploring how algorithms and data-driven models can solve real-world challenges and improve efficiency. My approach to problem-solving is logical, creative, and grounded in continuous learning. I take pride in writing clean, efficient, and purposeful code—because I truly believe that code is a powerful way to communicate ideas and shape the future.
+I am a Computer Science & Engineering student with a strong interest in
+software development and problem solving. Currently, I am focusing on
+building a solid foundation in Python and core programming concepts.
 
-As I continue developing my skills, I aspire to contribute to projects that push the boundaries of technology, innovation, and human potential.
+I believe in learning by doing — writing code daily, building small
+projects, and improving step by step. I enjoy breaking down problems,
+thinking logically, and turning ideas into working programs.
+
+My long-term goal is to become a skilled software engineer who builds
+reliable, efficient, and meaningful software solutions.
+
 
 ---
 
