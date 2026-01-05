@@ -86,18 +86,22 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧠 More About Myself
 
-I am a Computer Science & Engineering student with a strong interest in
-software development and problem solving. Currently, I am focusing on
-building a solid foundation in Python and core programming concepts.
+I am a Computer Science student who is passionate about learning how
+software systems are designed, built, and improved. My primary focus
+right now is strengthening my programming fundamentals, especially
+using Python.
 
-I believe in learning by doing — writing code daily, building small
-projects, and improving step by step. I enjoy breaking down problems,
-thinking logically, and turning ideas into working programs.
+I enjoy exploring how logic, data, and algorithms can be combined to
+solve real-world problems. While I am still early in my journey, I am
+deeply committed to continuous learning, self-improvement, and writing
+clean, understandable code.
 
-My long-term goal is to become a skilled software engineer who builds
-reliable, efficient, and meaningful software solutions.
+I believe good software is not just about working code, but about
+clarity, structure, and long-term maintainability. Step by step, I am
+working toward becoming a developer who creates reliable and impactful
+technology.
 
 
 ---
