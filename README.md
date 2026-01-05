@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakib Al Arman</h1>
-<h3 align="center"> Software Engineer | Problem Solver | Python  Lover | Researcher </h3>
+<h3 align="center"> Python  Lover | Problem Solver | Aspiring Software Developer   </h3>
 
 <p align="center">
   <a href="mailto:shakibalarman.cse@gmail.com">
@@ -21,13 +21,13 @@
 
 ---
 
-### 🧑‍💻 About Me
+- Python (problem solving & fundamentals)
+- Data Structures (basics)
+- Web development basics
+- Git & GitHub best practices
 
-- 🌐 Currently building my **personal portfolio website**
-- 🌱 Always learning **new frameworks & dev tools**
-- 🤝 Open to **collaborating on open-source** or research projects
-- 📌 Passionate about **clean code**, scalable systems, and **creative UI**
-- 🧪 Exploring **AI, machine learning & automation**
+
+
 
 ---
 
@@ -78,30 +78,22 @@
 
 ### 🎉 Fun Facts
 
-- 🧠 I talk to computers more than humans—and they actually listen!
-- ⏱️ Automated a 5-minute task in 3 hours and it was worth it.
-- 🐞 Debugging is like being the detective in a crime movie where you’re also the murderer.
-- 🎨 I design with love — clean UIs make me happy.
-- 💬 My favorite language? Python. Not the snake.
+- 🧠 I enjoy solving logical problems and understanding how things work.
+- 🐞 Debugging teaches me patience and precision.
+- ⏱️ I like automating small tasks, even if it takes longer at first.
+- 🐍 Python is my favorite language (learning more every day).
+
 
 ---
 
 ### 🧠 More About Myself
 
-I am a Computer Science student who is passionate about learning how
-software systems are designed, built, and improved. My primary focus
-right now is strengthening my programming fundamentals, especially
-using Python.
+I enjoy exploring how logic, data, and algorithms can solve real-world
+problems. I value clean, readable code and continuous learning.
 
-I enjoy exploring how logic, data, and algorithms can be combined to
-solve real-world problems. While I am still early in my journey, I am
-deeply committed to continuous learning, self-improvement, and writing
-clean, understandable code.
+Step by step, I am working toward becoming a developer who builds
+reliable and impactful software.
 
-I believe good software is not just about working code, but about
-clarity, structure, and long-term maintainability. Step by step, I am
-working toward becoming a developer who creates reliable and impactful
-technology.
 
 
 ---
