@@ -24,7 +24,7 @@
 - Python (problem solving & fundamentals)
 - Data Structures (basics)
 - Web development basics
-- Git & GitHub best practices
+- Git & GitHub best practicess
 
 
 
