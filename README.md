@@ -92,7 +92,7 @@ I enjoy exploring how logic, data, and algorithms can solve real-world
 problems. I value clean, readable code and continuous learning.
 
 Step by step, I am working toward becoming a developer who builds
-reliable and impactful software.
+reliable and impactful software..
 
 
 
