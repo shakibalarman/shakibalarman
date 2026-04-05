@@ -3,19 +3,19 @@
 </div>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=aonontojahan@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=shakibalarman.cse@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/aonontojahan">
+  <a href="https://www.linkedin.com/in/shakibalarman">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/aonontojahan">
+  <a href="https://www.instagram.com/shakibalarman">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/aonontojahan">
+  <a href="https://www.facebook.com/shakib.alarman.77">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@aonontojahan">
+  <a href="https://www.youtube.com/@ShakibAlArman">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
   </a>
 </p>
