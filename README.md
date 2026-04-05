@@ -122,7 +122,7 @@ I speak the language of Python fluently, but more importantly, I speak the langu
   <br/>
   <picture>
     <source 
-      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api?username=AonontoJahan&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api?username=shakibalarman&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
       media="(prefers-color-scheme: dark)" />
     <img 
       src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=shakibalarman&show_icons=true&theme=default&bg_color=F6F8FA&hide_border=true" 
@@ -132,7 +132,7 @@ I speak the language of Python fluently, but more importantly, I speak the langu
 
   <picture>
     <source 
-      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=AonontoJahan&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5" 
+      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=shakibalarman&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5" 
       media="(prefers-color-scheme: dark)" />
     <img 
       src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=shakibalarman&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5"
