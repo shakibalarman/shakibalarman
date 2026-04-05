@@ -113,8 +113,8 @@ I speak the language of Python fluently, but more importantly, I speak the langu
 
   <!-- GitHub Streak -->
   <p>
-    <a href="https://github.com/AonontoJahan">
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AonontoJahan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <a href="https://github.com/shakibalarman">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shakibalarman&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     </a>
   </p>
   
@@ -222,7 +222,7 @@ Tokenization
   <em>"The best code is simple, readable, and built to last."</em>
   <br/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=AonontoJahan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shakibalarman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F85D7F,100:4C71F2&section=footer&reversal=false&animation=fadeIn"/>
 </div>
