@@ -167,14 +167,16 @@ TailwindCSS
 
 <br/>
 
-###  [Event Management System](https://github.com/aonontojahan/Event-Management-System)
+###  [My Portfolio](https://github.com/shakibalarman/My-Portfolio.git)
 
-*Description:* A complete event planning and management platform  
-*Tech Stack:* Django
-PostgreSQL
-Bootstrap
-Python  
-*Features:* User authentication, event creation, registration system, payment integration
+*Description:* My personal portfolio website showcasing my skills, projects, and experience as an aspiring software engineer.
+*Tech Stack:* 
+html
+css
+javascript
+*Features:* Usercan download My CV
+Social  Media Link Intigration 
+Educational Section
 
 <br/>
 
