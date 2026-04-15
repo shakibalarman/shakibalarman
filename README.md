@@ -156,14 +156,15 @@ I speak the language of Python fluently, but more importantly, I speak the langu
 
 <div align="center">
 
-###  [Smart Calculator](https://github.com/aonontojahan/Smart-Calculator)
+###  [Web Calculator](https://github.com/shakibalarman/web-calculator.git)
 
 *Description:* A Production-Ready Scientific Calculator Web App. I built a complete full-stack scientific calculator from scratch using modern technologies and real backend engineering principles.
 *Tech Stack:* PostgreSQL
 Python  FastAPI
-React (Vite)
-TailwindCSS 
-*Features:* User authentication, User Registration & Login, Copy result feature, Dark / Light mode, JWT-based protected routes, User-isolated history
+HTML
+CSS
+JavaScript
+*Features:* User authentication, User Registration & Login, Copy result feature,  JWT-based protected routes, User-isolated history
 
 <br/>
 
