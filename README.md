@@ -1,38 +1,36 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4C71F2,100:F85D7F&text=Hi,%20I'm%20Aononto%20Jahan%20Junnurain&section=header&reversal=false&fontSize=40&textBg=false&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Aspiring%20Software%20Engineer%20|%20Python%20(FastAPI,%20Django)%20|%20PostgreSQL%20|%20Learning%20DevOps&descAlignY=50&descAlign=50&descSize=14"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4C71F2,100:F85D7F&text=Hi,%20I'm%20Shakib%20Al%20Arman&section=header&reversal=false&fontSize=40&textBg=false&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Aspiring%20Software%20Engineer%20|%20Python%20(FastAPI,%20Django)%20|%20PostgreSQL%20|%20Learning%20DevOps&descAlignY=50&descAlign=50&descSize=14"/>
 </div>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=aonontojahan@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=shakibalarman.cse@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/aonontojahan">
+  <a href="https://www.linkedin.com/in/shakibalarman">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-    <a href="https://aonontojahan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <a href="https://github.com/shakibalarman">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-    <a href="https://www.x.com/in/aonontojahan">
-    <img src="https://img.shields.io/badge/X-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.x.com/shakibalarman">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/aonontojahan">
+  <a href="https://www.instagram.com/shakibalarman">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://t.me/aonontojahan">
+  <a href="https://t.me/shakibalarman">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://wa.me/8801723740704">
+  <a href="https://wa.me/880XXXXXXXXXX">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@aonontojahan">
+  <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://linktr.ee/aonontojahan">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white"/>
+  <a href="https://www.facebook.com/shakib.alarman.77">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
 </p>
-
----
 
 <h1 align="center"> About Me </h1>
 
@@ -228,13 +226,13 @@ If you are seeking a Full-Stack Developer or Software Engineer with a strong fou
 My contact links are provided below — feel free to reach out and connect.
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aonontojahan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aonontojahan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aonontojahan.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aonontojahan/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aonontojahan)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aonontojahan)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801723740704)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakibalarman.cse@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakibalarman)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakibalarman)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shakibalarman)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shakib.alarman.77)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shakibalarman)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/880XXXXXXXXXX)
 
 </div>
 
@@ -247,7 +245,7 @@ My contact links are provided below — feel free to reach out and connect.
 
   <!-- GitHub Streak -->
   <p>
-    <a href="https://github.com/AonontoJahan">
+    <a href="https://github.com/shakibalarman">
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AonontoJahan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     </a>
   </p>
@@ -259,17 +257,17 @@ My contact links are provided below — feel free to reach out and connect.
       srcset="https://github-readme-stats-gamma-lilac.vercel.app/api?username=AonontoJahan&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
       media="(prefers-color-scheme: dark)" />
     <img 
-      src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=AonontoJahan&show_icons=true&theme=default&bg_color=F6F8FA&hide_border=true" 
+      src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=shakibalarman&show_icons=true&theme=default&bg_color=F6F8FA&hide_border=true" 
       height="190" 
       alt="GitHub Stats" />
   </picture>
 
   <picture>
     <source 
-      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=AonontoJahan&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5" 
+      srcset="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=shakibalarman&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5" 
       media="(prefers-color-scheme: dark)" />
     <img 
-      src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=AonontoJahan&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5"
+      src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=shakibalarman&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5"
       height="190"
       alt="Top Languages" />
   </picture>
@@ -277,8 +275,8 @@ My contact links are provided below — feel free to reach out and connect.
   <!-- GitHub Contribution Graph -->
   <br/><br/>
   <p>
-    <a href="https://github.com/AonontoJahan">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AonontoJahan&theme=react-dark&bg_color=1F222E&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph" />
+    <a href="https://github.com/Shakibalarman">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibalarman&theme=react-dark&bg_color=1F222E&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph" />
     </a>
   </p>
 
@@ -309,8 +307,8 @@ I often find myself talking to computers more than people — and surprisingly, 
 
   <em>"The best code is simple, readable, and built to last."</em>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=AonontoJahan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shakibalarman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F85D7F,100:4C71F2&section=footer&text=©%202026%20aonontojahan.vercel.app%20%7C%20All%20Rights%20Reserved&fontSize=14&fontColor=FFFFFF&animation=fadeIn&fontAlignY=85"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F85D7F,100:4C71F2&section=footer&text=©%202026%20shakibalarman.vercel.app%20%7C%20All%20Rights%20Reserved&fontSize=14&fontColor=FFFFFF&animation=fadeIn&fontAlignY=85"/>
 
 </div>
